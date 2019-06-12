@@ -6,5 +6,6 @@ public class App
     {
         System.out.println( "asas" );
          System.out.println( "sss" );
+        System.out.println("111111");
     }
 }
